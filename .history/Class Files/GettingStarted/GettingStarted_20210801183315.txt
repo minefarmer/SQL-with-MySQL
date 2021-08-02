@@ -1,0 +1,5 @@
+Pass: su356RM9
+
+To start  MySQL server: sudo mysql
+
+
